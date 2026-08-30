@@ -80,7 +80,7 @@ void ins_end(){
 }
 void ins_mid(){
     temp=head;
-    printf("enter the pos to insert & pos must be within the range 1(exclude) and n(exclude):");
+    printf("enter the pos to insert & pos must be within the range 1(exclude) and n(exclude)");
     scanf("%d",&pos);
     printf("enter data to enter at mid:");
     scanf("%d",&data);
