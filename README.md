@@ -1,2 +1,2 @@
-# data-structures-with-c-programming
-understanding how a data structure behaves
+# data-structures-with-c-language
+understanding how a data structure behaves and inner implementation 
